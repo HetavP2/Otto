@@ -197,6 +197,5 @@ def summarize_or_analytics(payload):
 if __name__ == "__main__":
     app.run(debug=True)
 
-
-# ngrok http 5000       
+    
     
